@@ -1,33 +1,33 @@
 # Agencia de Marketing Digital
 
-Esta es una página web de desplazamiento que presenta los servicios y el equipo de una agencia de marketing digital. El menú de navegación permite al usuario desplazarse fácilmente a diferentes secciones de la misma página, proporcionando una experiencia de usuario intuitiva.
+Este proyecto es una página web desarrollada para una agencia de marketing digital. La página muestra los servicios ofrecidos por la agencia, su portafolio de proyectos, información sobre el equipo y una sección de contacto para conectar con clientes potenciales.
 
-## Vista Previa
-(screenshot/1.png)
-(screenshot/2.png)
-(screenshot/3.png)
-(screenshot/4.png)
-(screenshot/5.png)
-(screenshot/6.png)
-(screenshot/7.png)
-(screenshot/8.png)
+## Vista previa
 
-## Descripción
-Esta página muestra los servicios que ofrecemos, nuestro portafolio de trabajos anteriores y detalles sobre nuestro equipo de trabajo. El objetivo es demostrar mis habilidades en el desarrollo web y marketing digital.
+Puedes ver el sitio en línea aquí:  
+[Ver Agencia de Marketing Digital](https://aracellylu.github.io/Agencia-de-Marketing-Digital/)
+
+## Contenido
+
+- **Servicios:** Descripción de los servicios de marketing digital disponibles para los clientes.
+- **Portafolio:** Ejemplos de proyectos anteriores y resultados obtenidos para los clientes.
+- **Nosotros:** Información sobre la misión y visión de la agencia.
+- **Equipo:** Presentación de los miembros del equipo y sus roles.
+- **Contacto:** Formulario de contacto para solicitudes y consultas de clientes.
 
 ## Características
-- Diseño de una sola página con navegación por desplazamiento.
-- Secciones para servicios, portafolio, equipo y contacto.
-- Estilo responsivo y amigable para dispositivos móviles.
+
+- **Diseño Profesional y Atractivo:** Enfoque visual para atraer clientes potenciales.
+- **Optimización para SEO:** Buenas prácticas para mejorar la visibilidad en motores de búsqueda.
+- **Responsivo:** Diseño adaptable a dispositivos móviles, tablets y escritorios.
 
 ## Tecnologías Utilizadas
-- HTML
-- CSS
-- JavaScript
-- Bootstrap (framework CSS)
 
-## Autora
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Bootstrap 5**
 
-Aracelly Quesada 2024
+---
 
-Perfil de Github: https://github.com/Aracellylu
+© 2024 Aracelly Quesada. Todos los derechos reservados.
